@@ -19,6 +19,7 @@ objfiles.txt
 *.gcov.out
 lcov.info
 coverage/
+cscope.out
 *.vcproj
 *.vcxproj
 win32ver.rc
